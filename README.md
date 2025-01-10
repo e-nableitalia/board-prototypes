@@ -1,7 +1,30 @@
-# enable-it
-e-Nable Italia Bionic Platform
+# enable-it board prototypes - Second iteration
 
-This project aims to create a general purpose hardware platform that can be used to develop bionic/electronics controlled devices
+**This project is part of e-Nable.it Bionic Platform**
+
+An open-source project for developing prosthetic and assistive devices through frugal innovation, designed to be part of e-Nable's open-source prosthetics. The project focuses on building electronic solutions that enable mechanical devices to achieve advanced functionalities, enhancing the community's designs with sophisticated, human-integrated electronic control while maintaining simplicity, affordability, and accessibility.
+
+Additional details and information about the **e-nable.it Bionic Platform** can be found in [e-nable.it Bionic Plaform Wiki](https://dev.e-nableitalia.it/wiki/spaces/enableit/pages/2195549/e-Nable.it+bionic+platform).
+
+
+# Project roadmap
+
+The project unfolds in three development iterations, each aimed at validating, prototyping, and engineering innovative solutions for low-cost bionic devices.
+
+1. Ideas Validation
+The first phase involves conducting experiments and tests to validate initial ideas. This phase focuses on identifying the most promising solutions, exploring various options for controlling actuators and sensors, and collecting data to establish guidelines for the prototype.
+
+2. Prototyping & Custom Solutions
+During the prototyping phase, custom solutions are developed using commercial components integrated with specialized electronic boards. The most promising ideas are implemented into physical prototypes to validate architectural and structural concepts. The focus is on simplicity and reliability, ensuring the solutions can be easily replicated and adapted for various bionic devices.
+
+3. Frugal Innovation Engineering
+The final phase focuses on engineering the solutions based on frugal innovation principles. Prototypes are optimized to make them accessible, scalable, and practical, with a strong emphasis on cost-effectiveness and real-world applicability. The engineering process also involves creating an open-source hardware platform that enables the creation of modular systems easily combined to build bionic devices.
+
+This repository relates to Iteration #2.
+
+The objective of this iteration is to develop the prototypes useful to validate ideas and concepts developed in the previous step.
+
+**The boards developed in this iteration are only for technological validation and are not designed for real use.**
 
 ## Boards
 ### Controllers - controller boards with a general purpose CPU, exposing a standard bus interface (see B2BCB specifications)
