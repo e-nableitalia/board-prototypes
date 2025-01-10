@@ -1,4 +1,4 @@
-# enable-it board prototypes - Second iteration
+# enable-it Board Prototypes - Second iteration
 
 **This project is part of e-Nable.it Bionic Platform**
 
